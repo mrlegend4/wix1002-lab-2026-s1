@@ -10,5 +10,7 @@ public class L1Q4 {
         long seconds = totalSeconds % 60;
         System.out.printf("%d seconds is %d hours, %d minutes and %d seconds%n",
                 totalSeconds, hours, minutes, seconds);
+
+        keyboard.close();
     }
 }

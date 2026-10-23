@@ -8,5 +8,6 @@ public class L2Q1 {
         double fahrenheit = keyboard.nextDouble();
         double celsius = (fahrenheit - 32) / 1.8;
         System.out.printf(Locale.US, "Celsius: %.2f%n", celsius);
+        keyboard.close();
     }
 }

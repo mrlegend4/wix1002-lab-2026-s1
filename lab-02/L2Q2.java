@@ -15,5 +15,7 @@ public class L2Q2 {
         double monthly = (price - downPayment) * (1 + rate * years / 100)
                 / (years * 12);
         System.out.printf(Locale.US, "Monthly payment: RM %.2f%n", monthly);
+
+        keyboard.close();
     }
 }

@@ -16,5 +16,7 @@ public class L1Q6 {
         double energy = massKg * (finalC - initialC) * 4184;
         System.out.printf(Locale.US, "Energy: %.2f J%n", energy);
         System.out.printf(Locale.US, "Scientific: %.6e J%n", energy);
+
+        keyboard.close();
     }
 }
