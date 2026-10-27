@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class L1Q6 {
+public class L2Q6 {
     void main() {
         Scanner keyboard = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Water mass in grams: ");

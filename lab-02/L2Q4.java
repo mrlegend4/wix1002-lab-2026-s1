@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L1Q4 {
+public class L2Q4 {
     void main() {
         Scanner keyboard = new Scanner(System.in);
         System.out.print("Enter the number of seconds: ");

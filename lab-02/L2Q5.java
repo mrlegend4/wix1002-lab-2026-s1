@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class L1Q5 {
+public class L2Q5 {
     void main() {
         Random generator = new Random();
         int number = generator.nextInt(10001);

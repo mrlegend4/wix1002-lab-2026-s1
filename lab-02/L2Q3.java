@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Random;
 
-public class L1Q3 {
+public class L2Q3 {
     void main() {
         Random generator = new Random();
         // For repeatable tests, replace the line above with new Random(42L).
